@@ -200,7 +200,7 @@ button.slick-prev.slick-arrow {
   z-index: 9999;
   width: 50px;
   height: 60px;
-  background-image: url(/parte1/img/seta.png);
+  background-image: url(/img/seta.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 60%;
@@ -212,7 +212,7 @@ button.slick-next.slick-arrow {
   z-index: 9999;
   width: 50px;
   height: 60px;
-  background-image: url(/parte1/img/seta.png);
+  background-image: url(/img/seta.png);
   background-repeat: no-repeat;
   background-position: center;
   transform: rotate(180deg);
